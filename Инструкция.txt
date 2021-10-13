@@ -1,0 +1,4 @@
+1. «апускать программу через Anaconda3(Spyder) c установленными модул€ми networkx и nampy
+2. ”становка модулей введите в командную строку Anaconda3(Anaconda promt) команды:
+	- дл€ nampy => pip3 install numpy
+	- дл€ networkx => conda install -c anaconda networkx(в подтверждении выбрать Y)
